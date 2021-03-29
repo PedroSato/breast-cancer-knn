@@ -1,0 +1,17 @@
+{
+  "name": "breast-cancer-knn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Sato",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.1.17",
+    "@tensorflow/tfjs-node-gpu": "^1.7.4",
+    "lodash": "^4.17.20",
+    "shuffle-seed": "^1.1.6"
+  }
+}
